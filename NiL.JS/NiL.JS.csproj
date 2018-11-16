@@ -253,6 +253,7 @@
     <Compile Include="Core\ICallable.cs" />
     <Compile Include="Core\IIterable.cs" />
     <Compile Include="Core\IIteratorResult.cs" />
+    <Compile Include="Core\Interop\DictionaryStringObjectWrapper.cs" />
     <Compile Include="Core\Interop\ExpandoObjectWrapper.cs" />
     <Compile Include="Core\Interop\JavaScriptAliasAttribute.cs" />
     <Compile Include="Core\Interop\JsonSerializer.cs" />
